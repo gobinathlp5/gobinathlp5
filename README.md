@@ -28,7 +28,7 @@ Learning step by step towards becoming an **industry-ready engineer**.
 
 
 ### 📬 How to reach me
-📧 Email: **gobinathlp5@gmail.com**  
+📧 Email: **gobinathlp720@gmail.com**  
 💼 LinkedIn: [linkedin.com/in/gobinathlp5](https://www.linkedin.com/in/gobinathlp)  
 
 ---
@@ -37,5 +37,32 @@ Learning step by step towards becoming an **industry-ready engineer**.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gobinathlp5&repo=Can-Bus-Humidity-Monitoring-System&theme=radical)](https://github.com/gobinathlp5/gobi-portfolio)
 
 ---
+
+---
+
+### 📂 More about me  
+
+<details>
+  <summary>📄 Resume</summary>
+  <br>
+  You can find my resume here 👉 [Resume Link](https://example.com)
+</details>
+
+<details>
+  <summary>📦 Packages</summary>
+  <br>
+  List of packages I’ve worked on or published:
+  - Embedded drivers
+  - IoT modules
+  - Verilog practice codes
+</details>
+
+<details>
+  <summary>📱 Mobile</summary>
+  <br>
+  Mobile-related projects and experiments:
+  - Android IoT apps
+  - Bluetooth connectivity testing
+</details>
 
 ⭐️ From [gobinathlp5](https://github.com/gobinathlp5)
