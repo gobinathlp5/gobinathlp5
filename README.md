@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋 I'm Gobi  
 
-<!--
-**gobinathlp5/gobinathlp5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Developer | 📡 Electronics Enthusiast | 🚀 Future Innovator  
+Currently working on **IoT and Embedded Projects**.  
+Learning step by step towards becoming an **industry-ready engineer**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤-red?style=for-the-badge)](https://github.com/sponsors/gobinathlp5)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gobinathlp)
+
+---
+
+### 📊 GitHub Stats
+![Gobinathlp5's GitHub stats](https://github-readme-stats.vercel.app/api?username=gobinathlp5&show_icons=true&theme=radical)  
+
+---
+
+### 🛠️ My Workspace
+![Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows)  
+![Intel](https://img.shields.io/badge/Intel-Core_i5_13th-0071C5?style=for-the-badge&logo=intel)  
+![RAM](https://img.shields.io/badge/RAM-24GB-008080?style=for-the-badge)  
+![NVIDIA](https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia)  
+
+---
+
+### 📬 How to reach me
+📧 Email: **gobinathlp5@gmail.com**  
+💼 LinkedIn: [linkedin.com/in/gobinathlp5](https://www.linkedin.com/in/gobinathlp)  
+
+---
+
+### 📌 Pinned Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gobinathlp5&repo=Can-Bus-Humidity-Monitoring-System&theme=radical)](https://github.com/gobinathlp5/gobi-portfolio)
+
+---
+
+⭐️ From [gobinathlp5](https://github.com/gobinathlp5)
