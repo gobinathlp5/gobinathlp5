@@ -34,7 +34,7 @@ Learning step by step towards becoming an **industry-ready engineer**.
 ---
 
 ### 📌 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gobinathlp5&repo=Can-Bus-Humidity-Monitoring-System&theme=radical)](https://github.com/gobinathlp5/gobi-portfolio)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gobinathlp5&repo=Certifications&theme=radical)](https://github.com/gobinathlp5/Certifications)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gobinathlp5&repo=Can-Bus-Humidity-Monitoring-System&theme=radical)](https://github.com/gobinathlp5/gobi-portfolio)   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gobinathlp5&repo=Certifications&theme=radical)](https://github.com/gobinathlp5/gobi-portfolio)
 
 ---
 
