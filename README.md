@@ -33,15 +33,6 @@ Learning step by step towards becoming an **industry-ready engineer**.
 
 ### 📌 Pinned Repositories  
 
-<p align="center">
-  <a href="https://github.com/gobinathlp5/gobi-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gobinathlp5&repo=gobi-portfolio&theme=radical" />
-  </a>
-  <a href="https://github.com/gobinathlp5/Certifications">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gobinathlp5&repo=Certifications&theme=radical" />
-  </a>
-</p>
-
 ---
 
 ### 📂 More about me  
