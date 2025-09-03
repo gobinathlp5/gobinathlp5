@@ -16,10 +16,10 @@ Learning step by step towards becoming an **industry-ready engineer**.
 
 ---
 
-### 🛠️ My Workspace
+### 🛠️ My Workspace<div align="center">
 ![Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows)   ![Intel](https://img.shields.io/badge/Intel-Core_i5_13th-0071C5?style=for-the-badge&logo=intel)  
          ![RAM](https://img.shields.io/badge/RAM-24GB-008080?style=for-the-badge)   ![NVIDIA](https://img.shields.io/badge/NVIDIA-RTX3050-76B900?style=for-the-badge&logo=nvidia)  
-
+</div>
 ---
 
 ### 📬 How to reach me
