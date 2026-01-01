@@ -4,7 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <h1>Gobinath L P | Embedded Systems Engineer</h1>
-    <style>
+</head>
+<body>
+<style>
         body {
             font-family: Arial, Helvetica, sans-serif;
             margin: 0;
@@ -49,9 +51,6 @@
             text-decoration: none;
         }
     </style>
-</head>
-<body>
-
 <header>
     <h1>Gobinath L P</h1>
     <p>Electronics and Communication Engineering Student</p>
