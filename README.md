@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gobinath L P | Embedded Systems Engineer</title>
+    <h1>Gobinath L P | Embedded Systems Engineer</h1>
     <style>
         body {
             font-family: Arial, Helvetica, sans-serif;
@@ -91,7 +91,6 @@
             reducing fuel consumption and logistics cost.
         </p>
     </div>
-
     <div class="card">
         <h3>ESP32 AC Voltage Monitoring</h3>
         <p>
@@ -103,7 +102,7 @@
 <section>
     <h2>Contact</h2>
     <div class="card">
-        <p>Email: <a href="mailto:gobinathlp@gmail.com">gobinathlp@gmail.com</a></p>
+        <p>Email: <a href="mailto:gobinathlp720@gmail.com">gobinathlp@gmail.com</a></p>
         <p>GitHub: <a href="https://github.com/gobinathlp5">github.com/gobinathlp5</a></p>
         <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a></p>
         <p>Location: Erode, Tamil Nadu, India</p>
