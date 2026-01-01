@@ -1,39 +1,36 @@
-# Gobinath L P  
+# Gobinath L.P.
 ### Embedded Systems Engineer
 
 🎓 Electronics and Communication Engineering Student  
-🔧 Embedded Systems | IoT | CAN Bus | Verilog  
+🔧 Specializing in Embedded Systems | IoT | CAN Bus | Verilog
 
 ---
 
 ## 👨‍💻 About Me
-I am an Electronics and Communication Engineering undergraduate with a strong interest in
-embedded systems, microcontrollers, and core electronics. I enjoy building
-hardware–software integrated projects and strengthening my fundamentals step by step.
+I am currently pursuing a degree in Electronics and Communication Engineering, with a keen interest in embedded systems, microcontrollers, and core electronics. I am passionate about developing projects that integrate hardware and software, constantly enhancing my technical foundation.
 
 ---
 
 ## 🛠️ Technical Skills
-- **Programming:** C, C++, Python, Java  
-- **Embedded Systems:** ESP32, Arduino, Sensors  
-- **Protocols:** CAN Bus, UART, I2C, SPI  
-- **EDA Tools:** LTspice, Cadence  
-- **Web Basics:** HTML, CSS, JavaScript  
+- **Programming Languages:** C, C++, Python, Java
+- **Embedded Systems Expertise:** ESP32, Arduino, Sensors
+- **Communication Protocols:** CAN Bus, UART, I2C, SPI
+- **EDA (Electronic Design Automation) Tools:** LTspice, Cadence
+- **Web Development Fundamentals:** HTML, CSS, JavaScript
 
 ---
 
 ## 📂 Projects
-- **LoadPulse AI** – Real-time load matching system for logistics optimization  
-- **ESP32 AC Voltage Monitoring** – ZMPT101B + I2C LCD based measurement system  
-- **CAN Bus Experiments** – MCP2515 based CAN communication learning  
+- **LoadPulse AI:** Developed a real-time load matching system aimed at optimizing logistics.
+- **CAN Bus Experiments:** Conducted MCP2515-based experiments to deepen my understanding of CAN communication.
 
 ---
 
-## 📫 Contact
-- 📧 Email: gobinathlp@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🌍 Location: Erode, Tamil Nadu, India  
+## 📫 Contact Information
+- 📧 Email: gobinathlp720@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/gobinathlp](https://linkedin.com/in/gobinathlp)  
+- 🌍 Location: Erode, Tamil Nadu, India
 
 ---
 
-⭐ *This GitHub documents my learning journey and practical work in electronics and embedded systems.*
+⭐ *This GitHub repository serves as a documentation of my learning journey and hands-on projects in electronics and embedded systems.*
