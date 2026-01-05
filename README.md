@@ -2,7 +2,7 @@
 ### Embedded Systems Engineer
 
 🎓 Electronics and Communication Engineering Student  
-🔧 Specializing in Embedded Systems | IoT | CAN Bus | Verilog
+🔧 Specializing in Embedded Systems | IoT | Communication Protocols | Verilog
 
 ---
 
@@ -21,8 +21,17 @@ I am currently pursuing a degree in Electronics and Communication Engineering, w
 ---
 
 ## 📂 Projects
-- **LoadPulse AI:** Developed a real-time load matching system aimed at optimizing logistics.
-- **CAN Bus Experiments:** Conducted MCP2515-based experiments to deepen my understanding of CAN communication.
+**HardenX– Unified Cross-Platform System Hardening and Compliance Tool**
+  • Designed an automated cross-platform system hardening and compliance tool that supports both Windows
+  and Linux operating systems.
+  • Establishes security baselines, detects misconfigurations, a nd allows for safe, auditable configuration
+  changes.
+**LoadPulse AI– Real-Time Load Matching System**
+  • Designed an AI-powered platform to match empty trucks with nearby loads in real time.
+  • Reduced fuel waste, logistics costs, and CO2 emissions through optimized load utilization.
+**CAN Bus- Simulation of CAN Protocol**
+  • Simulated CAN protocol between two Arduino UNO boards to transmit Humidity and temperature data.
+  • learned to use two MCP2515 CAN controllers and how this works in automobiles.
 
 ---
 
