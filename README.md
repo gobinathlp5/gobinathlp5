@@ -2,7 +2,7 @@
 ### Embedded Systems Engineer
 
 🎓 Electronics and Communication Engineering Student  
-🔧 Specializing in Embedded Systems | IoT | Communication Protocols | Verilog
+🔧 Specializing in Embedded Systems | IoT | Communication Protocols | Reverse Engineering
 
 ---
 
@@ -62,7 +62,7 @@ A practical simulation of the Controller Area Network (CAN) protocol using embed
 ## 📫 Contact Information
 - 📧 Email: gobinathlp720@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/gobinathlp](https://linkedin.com/in/gobinathlp)
-  - 📺 Youtube: [youtube.com/in/@GobinathLP](https://youtube.com/@gobinathlp?si=sPFEL1dG3pqGPG87)
+- 📺 Youtube: [youtube.com/in/@GobinathLP](https://youtube.com/@gobinathlp?si=sPFEL1dG3pqGPG87)
 - 🌍 Location: Erode, Tamil Nadu, India
 
 ---
