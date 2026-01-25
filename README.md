@@ -34,17 +34,17 @@ HardenX is an automated system hardening and compliance solution designed to enh
 - Reduces manual configuration errors
 - Suitable for enterprise and academic security environments
 
-**🚚 LoadPulse AI – Real-Time Load Matching System**
+**🏛️ Equira – A Unified Digital Ecosystem for Inclusive Growth**
 
-LoadPulse AI is an AI-powered logistics platform that optimizes freight movement by matching empty trucks with nearby loads in real time.
+Equira is a citizen-centric digital platform designed to improve access to government welfare schemes and essential healthcare services, especially for rural and marginalized communities.
 
 **✨ Key Highlights**
 
-- Real-time load and vehicle matching
-- Reduces empty return trips and fuel wastage
-- Improves logistics efficiency and cost savings
-- Designed for truck owners, fleet operators, and MSMEs
-- Scalable architecture for future predictive analytics
+- Smart government scheme discovery based on user profiles
+- Reduces information gaps and missed welfare benefits
+- Improves healthcare accessibility in rural and remote areas
+- Designed for citizens, rural populations, and underserved communities
+- Scalable architecture with scope for AI-powered assistance
 
 **📡 CAN Bus – Simulation of CAN Protocol**
 
@@ -61,7 +61,8 @@ A practical simulation of the Controller Area Network (CAN) protocol using embed
 
 ## 📫 Contact Information
 - 📧 Email: gobinathlp720@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/gobinathlp](https://linkedin.com/in/gobinathlp)  
+- 💼 LinkedIn: [linkedin.com/in/gobinathlp](https://linkedin.com/in/gobinathlp)
+  - 📺 Youtube: [youtube.com/in/@GobinathLP](https://youtube.com/@gobinathlp?si=sPFEL1dG3pqGPG87)
 - 🌍 Location: Erode, Tamil Nadu, India
 
 ---
