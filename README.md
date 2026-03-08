@@ -56,7 +56,7 @@ A hardware-level simulation of the **Controller Area Network (CAN) protocol** �
 **Why it matters:**  
 CAN bus is used in every modern vehicle's ECU network. This project gave me hands-on experience with automotive-grade communication — directly relevant to embedded systems research.
 
-🔗 [View Repository](#) | 📄 [View Documentation](#)
+🔗 [View Repository](#https://github.com/gobinathlp5/Can-Bus-Humidity-Monitoring-System) | 📄 [View Documentation](#)
 
 ---
 
@@ -73,7 +73,7 @@ An automated **security hardening and compliance framework** targeting both trad
 **Why it matters:**  
 Security in embedded systems is a growing research area. This project bridges my interests in low-level systems and hardware security.
 
-🔗 [View Repository](#)
+🔗 [View Repository](#https://github.com/Dineshram-06/HardenX_Final)
 
 ---
 
@@ -101,7 +101,7 @@ A citizen-centric digital platform designed to improve access to **government we
 - Improves healthcare accessibility in rural and remote areas
 - Scalable architecture with scope for AI-powered assistance
 
-🔗 [View Repository](#)
+🔗 [View Repository](#https://github.com/gobinathlp5/Equira)
 
 ---
 
