@@ -11,8 +11,6 @@
 
 I am an Electronics and Communication Engineering undergraduate with a strong focus on **VLSI design, embedded systems, and low-level hardware-software integration**. My work spans RTL design, communication protocol implementation, and system-level security — areas I am actively deepening through hands-on projects, workshops, and research preparation.
 
-I am currently building expertise in **FPGA-based digital design** and working toward research contributions in embedded systems and automotive communication protocols.
-
 > 💡 *"I build things at the intersection of hardware and software — from RTL to real-world protocols."*
 
 ---
@@ -20,13 +18,12 @@ I am currently building expertise in **FPGA-based digital design** and working t
 ## 🛠️ Technical Skills
 
 ### Hardware & VLSI
-- **HDL:** Verilog, VHDL *(in progress)*
-- **EDA Tools:** Cadence, LTspice, Xilinx Vivado *(in progress)*
-- **Embedded Platforms:** ESP32, Arduino UNO, Microcontrollers
+- **EDA Tools:** Cadence, LTspice
+- **Embedded Platforms:** ESP32, Arduino Boards, Microcontrollers
 - **Protocols:** CAN Bus, UART, I2C, SPI
 
 ### Low-Level & Systems
-- **Languages:** C, C++, Python, x86 Assembly (NASM)
+- **Languages:** C, C++, Python, x86 Assembly
 - **Reverse Engineering Tools:** Ghidra, x64dbg
 - **Version Control:** Git, GitHub
 
@@ -56,7 +53,7 @@ A hardware-level simulation of the **Controller Area Network (CAN) protocol** �
 **Why it matters:**  
 CAN bus is used in every modern vehicle's ECU network. This project gave me hands-on experience with automotive-grade communication — directly relevant to embedded systems research.
 
-🔗 [View Repository](https://github.com/gobinathlp5/Can-Bus-Humidity-Monitoring-System) | 📄 [View Documentation](#)
+🔗 [View Repository](https://github.com/gobinathlp5/Can-Bus-Humidity-Monitoring-System) | 📄 [View Documentation][(#](https://github.com/gobinathlp5/Can-Bus-Humidity-Monitoring-System/blob/main/CAN-Bus-Project/CAN_Bus_Documentation.pdf)
 
 ---
 
