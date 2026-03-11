@@ -53,7 +53,7 @@ A hardware-level simulation of the **Controller Area Network (CAN) protocol** �
 **Why it matters:**  
 CAN bus is used in every modern vehicle's ECU network. This project gave me hands-on experience with automotive-grade communication — directly relevant to embedded systems research.
 
-🔗 [View Repository](https://github.com/gobinathlp5/Can-Bus-Humidity-Monitoring-System) | 📄 [View Documentation][(#](https://github.com/gobinathlp5/Can-Bus-Humidity-Monitoring-System/blob/main/CAN-Bus-Project/CAN_Bus_Documentation.pdf)
+🔗 [View Repository](https://github.com/gobinathlp5/Can-Bus-Humidity-Monitoring-System) | 📄 [View Documentation](https://github.com/gobinathlp5/Can-Bus-Humidity-Monitoring-System/blob/main/CAN-Bus-Project/CAN_Bus_Documentation.pdf)
 
 ---
 
