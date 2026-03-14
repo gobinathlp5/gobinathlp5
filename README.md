@@ -57,6 +57,39 @@ CAN bus is used in every modern vehicle's ECU network. This project gave me hand
 
 ---
 
+### 🔐 Zero Trust IoT — Secure IoT Network with Blockchain & Device Authentication
+> **ESP32 | MQTT | Python | Blockchain | IoT Security**
+
+A hardware-based <strong>IoT security framework</strong> implementing 
+<strong>Zero Trust Architecture and blockchain-backed verification</strong> 
+to protect IoT networks from unauthorized devices, data tampering, and botnet-style attacks.
+</p>
+
+**What I built:**
+
+<ul>
+<li>Developed a <strong>secure IoT sensor node using ESP32 and DHT11</strong> to collect and transmit environmental data</l
+<li>Implemented <strong>HMAC-based device authentication</strong> to verify the integrity and origin of sensor data</li>
+<li>Built an <strong>MQTT-based secure communication pipeline</strong> between IoT devices and a gateway</li>
+<li>Designed a <strong>Python security engine and monitoring dashboard</strong> to analyze device activity</li>
+<li>Integrated <strong>blockchain-style immutable logging</strong> to store verified IoT transactions</li>
+<li>Simulated <strong>malicious device behavior and abnormal sensor data</strong> to test security detection mechanisms</li>
+</ul>
+
+**Why it matters:**
+
+<p>
+IoT devices are frequently deployed with weak security, making them easy targets for 
+<strong>botnets, spoofing attacks, and data manipulation</strong>.  
+This project demonstrates how <strong>Zero Trust security principles combined with 
+cryptographic authentication and tamper-resistant logging</strong> can significantly 
+improve the security of IoT infrastructures.
+</p>
+
+🔗 [View Repository](https://github.com/gobinathlp5/Blockchain-Enabled-Zero-Trust-Security-Framework-for-Smart-City-IoT-Infrastructure)
+
+---
+
 ### 🔐 HardenX — Embedded & System Security Hardening Tool
 > **Python | C | Windows | Linux | IoT Security**
 
