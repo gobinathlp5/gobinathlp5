@@ -1,30 +1,28 @@
 # Gobinath L.P.
-### Embedded Systems & VLSI Engineer | ECE Undergraduate
+### Embedded Systems Engineer | ECE Undergraduate
 
 🎓 B.E. Electronics & Communication Engineering — Velalar College of Engineering and Technology, Erode (2024–2028)  
-🔧 Specializing in **VLSI Design | Embedded Systems | Communication Protocols | Low-Level Engineering**  
-🎌 JLPT N5 (In Progress) | 🌐 Aspiring MS Researcher in VLSI/Embedded Systems
+🔧 Specializing in ** | Embedded Systems | Communication Protocols | Low-Level Engineering **
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an Electronics and Communication Engineering undergraduate with a strong focus on **VLSI design, embedded systems, and low-level hardware-software integration**. My work spans RTL design, communication protocol implementation, and system-level security — areas I am actively deepening through hands-on projects, workshops, and research preparation.
+I am an Electronics and Communication Engineering undergraduate with a strong focus on **Embedded systems, and low-level hardware-software integration**. My work spans RTL design Communication protocol implementation, and system-level security — areas I am actively deepening through hands-on projects, workshops, and research preparation.
 
 > 💡 *"I build things at the intersection of hardware and software — from RTL to real-world protocols."*
 
 ---
 
 ## 🛠️ Technical Skills
-
-### Hardware & VLSI
-- **EDA Tools:** Cadence, LTspice
-- **Embedded Platforms:** ESP32, Arduino Boards, Microcontrollers
+1
+### Hardware
+- **EDA Tools:** Cadence, LTspice, STM32CubeIDE
+- **Embedded Platforms:** ARM Cortex, Microcontrollers
 - **Protocols:** CAN Bus, UART, I2C, SPI
 
 ### Low-Level & Systems
-- **Languages:** C, C++, Python, x86 Assembly
-- **Reverse Engineering Tools:** Ghidra, x64dbg
+- **Languages:** C, C++, Python, x86 Assembly (NASM)
 - **Version Control:** Git, GitHub
 
 ### Certifications & Training
@@ -107,20 +105,6 @@ Security in embedded systems is a growing research area. This project bridges my
 
 ---
 
-### 🖥️ x86 Assembly Programs
-> **x86 Assembly (NASM) | Low-Level Programming | Reverse Engineering**
-
-A collection of **bare-metal x86 assembly programs** exploring low-level CPU operations, memory management, and system calls.
-
-**Includes:**
-- Basic arithmetic and logic operations at register level
-- Memory addressing modes and stack manipulation
-- Foundation for reverse engineering and firmware analysis
-
-🔗 [View Repository](#)
-
----
-
 ### 🏛️ Equira — Unified Digital Ecosystem for Inclusive Growth
 > **Python | JavaScript | HTML/CSS | MongoDB | Full-Stack Web**
 
@@ -137,13 +121,7 @@ A citizen-centric digital platform designed to improve access to **government we
 
 ## 🔭 Currently Working On
 
-```
-📌 FPGA-based UART Controller (Verilog + Xilinx Vivado)   [In Progress]
-📌 JLPT N5 Japanese Language Certification                 [Exam: July 2025]
-📌 IELTS Academic Preparation                              [Target: 7.0+]
-📌 GRE Preparation                                         [Target: 320+]
-📌 Research Paper: CAN Bus Security in Automotive Systems  [Planning]
-```
+  
 
 ---
 
@@ -159,9 +137,7 @@ A citizen-centric digital platform designed to improve access to **government we
 ## 🏆 Achievements
 
 - 🥇 Smart India Hackathon Participant
-- 📜 RTL Design & Verification Workshop — hands-on digital design training
 - 💪 ARM Cortex-M4 Masterclass — deep dive into ARM embedded architecture
-- 🎌 JLPT N5 Training (in progress) — preparing for MS research in Japan
 - 🌐 IEEE Student Member
 
 ---
