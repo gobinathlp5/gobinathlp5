@@ -146,7 +146,7 @@ A citizen-centric digital platform designed to improve access to **government we
 
 | Platform | Link |
 |----------|------|
-| 📧 Email | gobinathlp720@gmail.com |
+| 📧 Email | gopinathlp720@gmail.com |
 | 💼 LinkedIn | [linkedin.com/in/gobinathlp](https://linkedin.com/in/gobinathlp) |
 | 📺 YouTube | [@GobinathLP](https://youtube.com/@gobinathlp) |
 | 🌍 Location | Erode, Tamil Nadu, India |
