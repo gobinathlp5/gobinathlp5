@@ -2,20 +2,20 @@
 ### Embedded Systems Engineer | ECE Undergraduate
 
 🎓 B.E. Electronics & Communication Engineering — Velalar College of Engineering and Technology, Erode (2024–2028)  
-🔧 Specializing in ** | Embedded Systems | Communication Protocols | Low-Level Engineering **
+🔧 Specializing in **Embedded Systems | Communication Protocols | Low-Level Engineering**
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an Electronics and Communication Engineering undergraduate with a strong focus on **Embedded systems, and low-level hardware-software integration**. My work spans RTL design Communication protocol implementation, and system-level security — areas I am actively deepening through hands-on projects, workshops, and research preparation.
+I am an Electronics and Communication Engineering undergraduate with a strong focus on **Embedded systems, and low-level hardware-software integration**. My work spans Communication protocol implementation, and system-level security — areas I am actively deepening through hands-on projects, workshops, and research preparation.
 
 > 💡 *"I build things at the intersection of hardware and software — from RTL to real-world protocols."*
 
 ---
 
 ## 🛠️ Technical Skills
-1
+
 ### Hardware
 - **EDA Tools:** Cadence, LTspice, STM32CubeIDE
 - **Embedded Platforms:** ARM Cortex, Microcontrollers
